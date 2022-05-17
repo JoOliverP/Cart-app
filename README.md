@@ -9,7 +9,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Html,Css,Javascript](https://www.w3schools.com/)
 
 ### ⚙️ Deploy Vercel
-Acesse aqui [Carrinho-App]()  para ver a aplicação.
+Acesse aqui [Carrinho-App](https://cart-app-two.vercel.app/)  para ver a aplicação.
 
 ###  🎲 Pré-requisitos
 
